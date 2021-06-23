@@ -1,7 +1,5 @@
 
-<p align="right">
-    <img src="odilon.svg" alt="cover" title="Gabriel de Jesus" border="0" width="200" height="200">
-</p>
+
 
 ## Oi, meu nome é Odilon. Satisfação ter você aqui! 👋🏾
 
