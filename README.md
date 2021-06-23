@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="">
     <img src="odilon.svg" alt="cover" title="Gabriel de Jesus" border="0" width="200" height="200">
 </p>
 
