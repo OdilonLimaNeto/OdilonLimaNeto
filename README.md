@@ -14,7 +14,6 @@
 
 
 <p align='center'>
-  
   <a href="https://www.linkedin.com/in/odilonlimaneto/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -23,12 +22,19 @@
   </a>&nbsp;&nbsp;	
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=OdilonLimaNeto&show_icons=true&count_private=true&theme=dark" width="350"></a>
- <a href="#"><img src=" https://github-readme-stats.vercel.app/api?username=OdilonLimaNeto&show_icons=true&theme=radical" width="350"></a>
+<br>
+<br>
 
+<p align='center'>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=OdilonLimaNeto&show_icons=true&count_private=true&theme=dracula" width="550"/>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdilonLimaNeto&layout=compact&theme=dracula)](https://github.com/OdilonLimaNeto/github-readme-stats)
 </p>
 
+<br>
+<br>
+ 
 <p align='center'>
   📫 Entre em contato comigo! <br><br>
   <a href="mailto:odilongeronimoo@gmail.com">
