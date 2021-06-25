@@ -24,16 +24,6 @@
 
 <br>
 <br>
-
-<p align='center'>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=OdilonLimaNeto&show_icons=true&count_private=true&theme=dracula" width="550"/>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdilonLimaNeto&layout=compact&theme=dracula)](https://github.com/OdilonLimaNeto/github-readme-stats)
-</p>
-
-<br>
-<br>
  
 <p align='center'>
   📫 Entre em contato comigo! <br><br>
