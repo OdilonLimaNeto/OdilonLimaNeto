@@ -9,7 +9,8 @@
 
 
 <p align='center'>
- Um desenvolvedor backend de Rio Branco-AC, Brasil
+ Um aventureiro tecnológico de Rio Branco-AC, Brasil <br>
+ Desenvolvedor backend Jr. na Taghos Tecnologia
 </p>
 
 
@@ -36,8 +37,7 @@
 
 
 <p align='center'>
-🔭 Em busca de oportunidade como desenvolvedor, é um sonho e objetivo! <br>
-🌱 Atualmente estou desenvolvendo minhas habilidades utilizando a stack NodeJS e todo o seu ecossistema backend!<br>
+🌱 Atualmente estou desenvolvendo minhas habilidades utilizando a stack NodeJS + NestJS e todo o seu ecossistema!<br>
 💬 Bora conversar, mas fique sabendo que sou apaixonado por tecnologia!<br>
 </p>
 
