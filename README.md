@@ -38,7 +38,7 @@
 
 <p align='center'>
 🌱 Atualmente estou desenvolvendo minhas habilidades utilizando a stack NodeJS + NestJS e todo o seu ecossistema!<br>
-💬 Bora conversar, mas fique sabendo que sou apaixonado por tecnologia!<br>
+💬 Léo é um pau no cu!<br>
 </p>
 
 <h4 align='center'>
