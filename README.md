@@ -1,44 +1,13 @@
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=cyan)](https://linkedin.com/in/odilonlimaneto)
+[![LinkedIn Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=wm&ogbl#inbox)
 
+Hi, call me Odilon or Dino, whatever... 👋.
+I'm a Back-end developer at @Taghos Tecnologia (remote position).
 
+I'm a developer focused on delivering high quality Back-end solutions.
+My software development experience includes, but is not limited to, REST API's, GraphQL in Node.js and its ecosystem.
+I enjoy exploring the features of modern tools, which lead development to new and flexible solutions.
 
-<h1 align='center'>
- Oi, meu nome é Odilon. Satisfação ter você aqui! 👋🏾 👨‍💻
-</h1>
-  <br>
-     <br>
+- 📫 How to contact me: odilongeronimoo@gmail.com
 
-
-<p align='center'>
- Um aventureiro tecnológico de Rio Branco-AC, Brasil <br>
- Desenvolvedor backend Jr. na Taghos Tecnologia
-</p>
-
-
-<p align='center'>
-  <a href="https://www.linkedin.com/in/odilonlimaneto/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/odilon.lima">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;	
-</p>
-
-<br>
-<br>
- 
-<p align='center'>
-  📫 Entre em contato comigo! <br><br>
-  <a href="mailto:odilongeronimoo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
-  <br>
-  <br>
-
-
-<p align='center'>
-🌱 Atualmente estou desenvolvendo minhas habilidades utilizando a stack NodeJS + NestJS e todo o seu ecossistema!<br>
-</p>
-
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/OdilonLimaNeto/OdilonLimaNeto"></a></p>
+- 🦖 Curiosity: They call me "Dino" because I live in Acre, and believe me, Acre exists.
