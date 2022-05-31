@@ -1,13 +1,13 @@
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=cyan)](https://linkedin.com/in/odilonlimaneto)
 [![LinkedIn Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=wm&ogbl#inbox)
 
-Hi, call me Odilon or Dino, whatever... 👋.
-I'm a Back-end developer at @Taghos Tecnologia (remote position).
+Oi, me chame de Odilon ou Dino, tanto faz... 👋.
+Sou desenvolvedor Back-end na @Taghos Tecnologia (posição remota).
 
-I'm a developer focused on delivering high quality Back-end solutions.
-My software development experience includes, but is not limited to, REST API's, GraphQL in Node.js and its ecosystem.
-I enjoy exploring the features of modern tools, which lead development to new and flexible solutions.
+Sou um desenvolvedor focado em entregar soluções Back-end de alta qualidade.
+Minha experiência em desenvolvimento de software inclui, mas não se limita a, APIs REST, GraphQL em Node.js e seu ecossistema.
+Gosto de explorar os recursos de ferramentas modernas, que levam ao desenvolvimento de soluções novas e flexíveis.
 
-- 📫 How to contact me: odilongeronimoo@gmail.com
+- 📫 Como entrar em contato comigo: odilongeronimoo@gmail.com
 
-- 🦖 Curiosity: They call me "Dino" because I live in Acre, and believe me, Acre exists.
+- 🦖 Curiosidade: Me chamam de "Dino" porque moro no Acre, e acredite, o Acre existe.
