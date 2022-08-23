@@ -5,8 +5,9 @@ Oi, me chame de Odilon ou Dino, tanto faz... 👋.
 Sou desenvolvedor Back-end.
 
 Sou um desenvolvedor focado em entregar soluções Back-end de alta qualidade.
-Minha experiência em desenvolvimento de software inclui, mas não se limita a, APIs REST, GraphQL em Typecript ou Javascript utilizando Node.js. Além disso também desenvolvo features utilizando Golang e seu ecossistema.
-Gosto de explorar os recursos de ferramentas modernas, que levam ao desenvolvimento de soluções novas e flexíveis.
+Minha experiência em desenvolvimento de software inclui, mas não se limita a, GraphQL, APIs REST em Typecript ou Javascript utilizando Node.js. Além disso também desenvolvo features utilizando Golang e seu ecossistema.
+
+Gosto de explorar os recursos de ferramentas modernas como NestJS, Express, Docker, Kafka, Redis, que me levam ao desenvolvimento de soluções novas e flexíveis, e conceitos de Clean code e Clean Architecture, SOLID e Design Patterns.
 
 - 📫 Como entrar em contato comigo: odilongeronimoo@gmail.com
 
